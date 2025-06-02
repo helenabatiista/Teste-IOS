@@ -1,6 +1,6 @@
 # Objetivos
 
-O objetivo deste teste é verificar os conhecimentos dos candidatos a vaga de [developer iOS](http://blog.coderockr.com/?p=399) da Coderockr
+O objetivo deste teste é verificar os conhecimentos dos candidatos a vaga de [developer iOS] da Coderockr
 
 ## Procedimentos e requisitos
 
@@ -96,6 +96,6 @@ O resultado da requisição é no formato JSON, conforme o exemplo abaixo:
 
 ## Dúvidas
 
-Quaisquer dúvidas enviar para xorna@coderockr.com
+Quaisquer dúvidas enviar para jobs@coderockr.com
 
 
